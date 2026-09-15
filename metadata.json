@@ -1,0 +1,7 @@
+{
+  "name": "PlayReels",
+  "description": "Plataforma de streaming de doramas e micro-séries verticais com navegação completa, loja de moedas e VIP.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
